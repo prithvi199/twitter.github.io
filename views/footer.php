@@ -77,7 +77,7 @@
             success: function(result) {
                 if (result == "1") {
                     
-                    window.location.assign("http://completewebdevelopercourse.com/content/12-twitter/");
+                    window.location.assign("https://prithvi199.github.io/twitter.github.io/");
                     
                 } else {
                     

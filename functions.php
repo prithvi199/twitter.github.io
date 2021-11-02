@@ -2,7 +2,7 @@
 
     session_start();
 
-    $link = mysqli_connect("localhost", "cl29-twitter", "ne!7sbcsg", "cl29-twitter");
+    $link = mysqli_connect("localhost", "root", "kungfupanda@2", "twitter");
 
     if (mysqli_connect_errno()) {
         
